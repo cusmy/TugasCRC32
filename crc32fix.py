@@ -1,6 +1,6 @@
 from array import array
 
-poly = 0xEDB88320
+poly = 0x04C11DB7
 
 table = array('L')
 for byte in range(256):
