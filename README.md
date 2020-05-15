@@ -1,5 +1,6 @@
 # TugasCRC32
-
+Nama : Achmad Nasrul H
+Nim :  1814321039
 
 Spesial Thanks Mbak Gugel dan Channel Yutub India Yg menerangkan apa itu crc32
 
